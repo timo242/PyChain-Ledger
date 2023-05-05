@@ -1,6 +1,6 @@
 # PyChain-Ledger
 ---
-![PyChain Ledger](images/application-image.png)
+![PyChain Ledger](Images/application-image.png)
 
 ---
 ##### In this Project I created a PyChain Ledger and web based viewer using Streamlit.
@@ -17,8 +17,8 @@ I created and defined classes which included;
 
 ---
 #### My Streamlit viewer
-![pychain_app](images/pychain_app.PNG)
+![pychain_app](Images/pychain_app.PNG)
 
 ---
 #### My Running Proccesses
-![running processes](images/running_processes.PNG)
+![running processes](Images/running_processes.PNG)
